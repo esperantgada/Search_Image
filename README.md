@@ -20,8 +20,8 @@ First Screen| Default List | Search Image | Image Details | Owner Details
 
 Tech Stack used:
 ===============
-* Kotlin language
-* Kotlin coroutine
+### * Kotlin language
+### * Kotlin coroutine
 * Paging3 library 
 * Glide library
 * Dependency injection with Dagger Hilt
