@@ -41,8 +41,6 @@ or you could directly copy and paste this link in your IDE:
     https://github.com/esperantgada/education.git
 ***
 
-<img src="captures/1.jpg" />
-
 I hope you enjoyed it.
 
 Thank you so much for reading.
