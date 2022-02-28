@@ -14,7 +14,7 @@ where he will have information about the creator or owner of the image in an und
 by clicking on this sentence, he will be redirected to the web page where Owner info are shown.
 These screens explain the above description:
 
-<img src="captures/s1.jpg" width="150" /> | <img src="captures/s2.jpg" width="150" /> | <img src="captures/s3.jpg" width="150" /> | <img src="captures/s4.jpg" width="150" /> | <img src="captures/s5.jpg" width="150" />
+![ma](captures/s1.jpg) | <img src="captures/s2.jpg" width="150" /> | <img src="captures/s3.jpg" width="150" /> | <img src="captures/s4.jpg" width="150" /> | <img src="captures/s5.jpg" width="150" />
 ------------|--------------|--------------|---------------|---------------
 First Screen| Default List | Search Image | Image Details | Owner Details 
 
