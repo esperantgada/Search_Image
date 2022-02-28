@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.ImageDetailsFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="6dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/image_detailed_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/image_details"
+                tools:src="@drawable/ic_launcher_background"
+                tools:layout_height="300dp"/>
+
+            <TextView
+                android:id="@+id/image_description_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="This is image description"
+                android:visibility="gone"
+                tools:visibility="visible"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"/>
+
+            <TextView
+                android:id="@+id/owner_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Created by Esperant GADA"
+                android:visibility="gone"
+                tools:visibility="visible"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"/>
+
+</FrameLayout>
