@@ -47,7 +47,7 @@ Thank you so much for reading.
 
 You can reach out me at:
 * [LinkedIn](https://www.linkedin.com/in/esp%C3%A9rant-gada-b88469208/)
-* [Email](esperantgada@gmail.com)
+* [Email](mailto:esperantgada@gmail.com)
 * [Github](https://github.com/esperantgada)
 * [Facebook](https://web.facebook.com/gada.esperant/)
 
