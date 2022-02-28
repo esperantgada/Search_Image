@@ -50,6 +50,7 @@ You can reach out me at:
 * [Email](mailto:esperantgada@gmail.com)
 * [Github](https://github.com/esperantgada)
 * [Facebook](https://web.facebook.com/gada.esperant/)
+* [WhatsApp](https://wa.me/0022997756877)
 
 
 
