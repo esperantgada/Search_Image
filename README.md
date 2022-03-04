@@ -14,7 +14,7 @@ where he will have information about the creator or owner of the image in an und
 by clicking on this sentence, he will be redirected to the web page where Owner info are shown.
 These screens explain the above description:
 
-![Fist screen](screenshots/1.jpg "First screen") | <img src="captures/2.jpg" width="150" /> | <img src="captures/3.jpg" width="150" /> | <img src="captures/4.jpg" width="150" /> | <img src="captures/5.jpg" width="150" />
+![](screenshots/1.jpg "First screen") | <img src="captures/2.jpg" width="150" /> | <img src="captures/3.jpg" width="150" /> | <img src="captures/4.jpg" width="150" /> | <img src="captures/5.jpg" width="150" />
 ------------|--------------|-------------|----------------|---------------
 First Screen| Default List | Search Image | Image Details | Owner Details 
 
