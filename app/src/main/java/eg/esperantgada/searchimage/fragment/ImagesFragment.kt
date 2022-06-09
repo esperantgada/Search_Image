@@ -129,6 +129,8 @@ class ImagesFragment : Fragment(), ImagePagingAdapter.OnItemClickedListener {
     }
 
 
+
+
     override fun onDestroyView() {
         super.onDestroyView()
 
